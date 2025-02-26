@@ -19,8 +19,7 @@ This is a simple Pac-Man game developed in Java using the Java Swing library. Th
 ## Controls
 - **Arrow Keys**: Move Pac-Man up, down, left, or right
 
-## Screenshots
-![image](https://github.com/user-attachments/assets/1b6e72e0-a32a-423b-9e1b-84fd382c2a49)
+## Screenshots![image](https://github.com/user-attachments/assets/ec8d04cb-b308-417f-b6cf-da43da672050)
 
 ## Future Enhancements
 - Implement power-ups
